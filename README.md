@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hammad</h1>
 <h3 align="center">Software Developer (only if i don't give up)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-qureshi&label=Profile%20views&color=434454&style=flat" alt="hammad-qureshi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-qureshi&label=Visitors&color=434454&style=flat" alt="hammad-qureshi" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
