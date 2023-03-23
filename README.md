@@ -1,7 +1,7 @@
 # <div align="center">< Hello, World! /></div>  
   
 
-### <div align="center">I'm a Software Developer (only if i don't give up)</div>  
+### <div align="center">I'm a Software Developer.</div>  
   
 
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)  
