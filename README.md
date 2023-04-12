@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)  
   
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://hammad.surge.sh/)  
+- 👨‍💻 All of my projects are available at my [portfolio](https://hammadev.vercel.app/)  
   
 
 - 💬 Ask me about Cyber Security 👨‍💻  
